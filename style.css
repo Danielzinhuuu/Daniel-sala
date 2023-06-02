@@ -1,0 +1,65 @@
+
+
+.titulo{
+    color: rgb(10, 10, 10);
+padding-left: 400px;
+    
+
+}
+
+
+.sec1{
+    align-items: center;
+}
+
+
+.im1{
+    width: 80%;
+    display: flex;
+    align-items: center;
+padding-left: 150px;
+
+}
+
+.BBB{
+    width: 50%;
+    padding-left: 350px;
+
+}
+.FIFA{
+    width: 50%;
+padding-left: 350px;
+
+}
+.BOATE{
+    width: 50%;
+padding-left: 350px;
+
+}
+.VINI{
+    width: 50%;
+padding-left: 350px;
+
+}
+
+.titulo2{
+    padding-left: 600px;
+
+
+}
+.par-1{
+    margin: 0 150px 0 150px;
+}
+
+.par-2{
+    margin: 0 150px 0 150px;
+}
+.par-3{
+    margin: 0 150px 0 150px;
+}
+.par-4{
+    margin: 0 150px 0 150px;
+}
+.fundo1{
+    background-color: lightgrey;
+}
